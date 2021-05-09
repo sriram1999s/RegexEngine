@@ -1,0 +1,14 @@
+Hello there. This is a sample text for the input. abcd9
+12
+the
+abc[a-z][0-9]
+9+a+
+.*e.*e
+.*
+.*?
+\w+e.*e
+\w+e\w*e
+\w*s.*\d
+[a-zA-zBBCD9]*?\w*x.*\d
+3?\d?
+Hello.*is\w*?
